@@ -32,4 +32,4 @@ checkVisible.addEventListener('change', function() {
     } else {
         passInput.type = 'password';
     }
-});
+ }); 
